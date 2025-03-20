@@ -7,7 +7,7 @@
 
 🌷 Interested in developing **Web Applications, AI, and UI/UX Design**<br/>
 
-💭 Currently learning **AI Automation using Python, Web Development using React, and Mobile Development using Kotlin!**<br/>
+💭 Currently learning **AI Automation using Python, Web Development using React and Goland!**<br/>
 
 <h3 align="left">Let's Connect! 💫 </h3>
 <p align="left">
