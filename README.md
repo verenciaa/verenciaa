@@ -10,7 +10,6 @@
 
 💭 Currently learning **AI Automation using Python, Web Development using React and Goland!**<br/>
 
----
 
 <h3 align="left">Let's Connect! 💫 </h3>
 <p align="left">
@@ -18,7 +17,6 @@
 <a href="https://instagram.com/alexandraverencia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandraverencia" height="30" width="40" /></a>
 </p> <br/>
 
----
 
 <h3 align="left"> 📊 GitHub Stats:</h3>
 
