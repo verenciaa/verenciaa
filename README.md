@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexandra Verencia!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=verenciaa&label=Profile%20views&color=ff758c&style=flat" alt="verenciaa" /> </p>
 
+
 👩🏻‍💻 Informatics student at President University Concentrating in Artificial Intelligence
 
 🔭 I’m currently working on **Capstone Project**<br/>
@@ -9,13 +10,15 @@
 
 💭 Currently learning **AI Automation using Python, Web Development using React and Goland!**<br/>
 
+---
+
 <h3 align="left">Let's Connect! 💫 </h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexandra-verencia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandra-verencia" height="30" width="40" /></a>
 <a href="https://instagram.com/alexandraverencia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandraverencia" height="30" width="40" /></a>
 </p> <br/>
 
-
+---
 
 <h3 align="left"> 📊 GitHub Stats:</h3>
 
